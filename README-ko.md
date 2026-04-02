@@ -680,3 +680,5 @@ Claude에게 MCP 서버 작성 및 작동 방식에 대한 질문해보세요!
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [NAVI Protocol MCP](https://github.com/naviprotocol/mcp) 🎖️ 📇 ☁️ - NAVI Protocol MCP는 Sui 블록체인에서 NAVI DeFi 프로토콜과 상호 작용하기 위한 도구 모음을 제공합니다. AI 에이전트가 시장 데이터를 쿼리하고, 사용자 포트폴리오를 관리하며, 예금, 대출, 상환과 같은 거래를 실행할 수 있도록 합니다.

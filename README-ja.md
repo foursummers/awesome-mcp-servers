@@ -148,7 +148,7 @@
 
 ### 🧬 <a name="bio"></a>生物学、医学、バイオインフォマティクス
 
-- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - PubMed、ClinicalTrials.gov、MyVariant.infoへのアクセスを提供する生物医学研究用MCPサーバー。
+- [genomoncology/biomcphttps://github.com/naviprotocol/mcp/mcpogy/biomcp) 🐍 ☁️ - PubMed、ClinicalTrials.gov、MyVariant.infoへのアクセスを提供する生物医学研究用MCPサーバー。
 - [longevity-genie/biothings-mcp](https://github.com/longevity-genie/biothings-mcp) 🐍 🏠 ☁️ - 遺伝子、遺伝的変異、薬物、分類学情報を含むBioThings APIと相互作用するMCPサーバー。
 - [longevity-genie/gget-mcp](https://github.com/longevity-genie/gget-mcp) 🐍 🏠 ☁️ - 人気の`gget`ライブラリをラップした、ゲノムクエリと解析のための強力なバイオインフォマティクスツールキットを提供するMCPサーバー。
 - [longevity-genie/opengenes-mcp](https://github.com/longevity-genie/opengenes-mcp) 🎖️ 🐍 🏠 ☁️ - OpenGenesプロジェクトの老化と長寿研究のためのクエリ可能なデータベース用MCPサーバー。

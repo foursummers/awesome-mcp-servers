@@ -750,3 +750,5 @@ https://modelcontextprotocol.io/llms-full.txt
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [NAVI Protocol MCP](https://github.com/naviprotocol/mcp) 🎖️ 📇 ☁️ - NAVI Protocol MCP มีชุดเครื่องมือสำหรับการโต้ตอบกับโปรโตคอล NAVI DeFi บนบล็อกเชน Sui ช่วยให้ AI agents สามารถสอบถามข้อมูลตลาด จัดการพอร์ตโฟลิโอของผู้ใช้ และดำเนินการธุรกรรมต่างๆ เช่น การฝาก การกู้ยืม และการชำระคืน

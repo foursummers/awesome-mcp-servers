@@ -593,3 +593,5 @@ https://modelcontextprotocol.io/llms-full.txt
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [NAVI Protocol MCP](https://github.com/naviprotocol/mcp) 🎖️ 📇 ☁️ - NAVI Protocol MCP 提供了一套工具，用於與 Sui 區塊鏈上的 NAVI DeFi 協議進行交互。它允許 AI 代理查詢市場數據、管理用戶投資組合，並執行存款、借款和償還等交易。

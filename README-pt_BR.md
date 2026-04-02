@@ -591,3 +591,5 @@ Agora o Claude pode responder perguntas sobre como escrever servidores MCP e com
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [NAVI Protocol MCP](https://github.com/naviprotocol/mcp) 🎖️ 📇 ☁️ - O NAVI Protocol MCP oferece um conjunto de ferramentas para interagir com o protocolo NAVI DeFi na blockchain Sui. Ele permite que agentes de IA consultem dados de mercado, gerenciem portfólios de usuários e executem transações como depósitos, empréstimos e pagamentos.

@@ -704,7 +704,7 @@
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) 📇 ☁️ - Bankless Onchain API برای تعامل با قراردادهای هوشمند، کوئری اطلاعات تراکنش و توکن
 - [base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - یکپارچه‌سازی با Base Network برای ابزارهای onchain، که امکان تعامل با Base Network و Coinbase API را برای مدیریت کیف پول، انتقال وجه، قراردادهای هوشمند و عملیات DeFi می‌دهد
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - یکپارچه‌سازی با Alpha Vantage API برای دریافت اطلاعات سهام و ارزهای دیجیتال
-- [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - یکپارچه‌سازی با Bitte Protocol برای اجرای عامل‌های هوش مصنوعی بر روی چندین بلاکچین.
+- [bitteprotocol/https://github.com/naviprotocol/mcp) 📇 - یکپارچه‌سازی با Bitte Protocol برای اجرای عامل‌های هوش مصنوعی بر روی چندین بلاکچین.
 - [carsol/monarch-mcp-server](https://github.com/carsol/monarch-mcp-server) 🐍 ☁️ - سرور MCP که دسترسی فقط-خواندنی به داده‌های مالی Monarch Money را فراهم می‌کند و به دستیاران هوش مصنوعی امکان تحلیل تراکنش‌ها، بودجه‌ها، حساب‌ها و داده‌های جریان نقدی را با پشتیبانی از MFA می‌دهد.
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - سرور MCP که عامل‌های هوش مصنوعی را به [پلتفرم Chargebee](https://www.chargebee.com/) متصل می‌کند.
 - [codex-data/codex-mcp](https://github.com/Codex-Data/codex-mcp) 🎖️ 📇 ☁️ - یکپارچه‌سازی با [Codex API](https://www.codex.io) برای داده‌های بلاکچین و بازار غنی‌شده بی‌درنگ در بیش از ۶۰ شبکه
@@ -1309,3 +1309,5 @@ https://modelcontextprotocol.io/llms-full.txt
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [NAVI Protocol MCP](https://github.com/naviprotocol/mcp) 🎖️ 📇 ☁️ - NAVI Protocol MCP مجموعه‌ای از ابزارها را برای تعامل با پروتکل NAVI DeFi در بلاکچین Sui فراهم می‌کند. این امکان را به عامل‌های هوش مصنوعی می‌دهد تا داده‌های بازار را پرس‌وجو کنند، پرتفوی کاربران را مدیریت کنند و تراکنش‌هایی مانند سپرده‌گذاری، وام‌گیری و بازپرداخت را اجرا کنند.
